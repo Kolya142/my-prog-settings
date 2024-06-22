@@ -3,3 +3,4 @@
 // functions: do;[name];[value]
 do;run;echo Wow, it's work > 1
 do;run;start notepad 1
+do;run;start thanks
